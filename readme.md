@@ -6,7 +6,7 @@ Created on Wed Mar 24 14:22:06 2021
 
 ## Project "Hangman"
 
-This is an educational project provided by JetBrains Academy ["Hyperskill"]
+This is an educational project provided by JetBrains Academy *"Hyperskill"*
 (https://hi.hyperskill.org/how-we-teach).
 
 **Level:** easy.
